@@ -7,9 +7,9 @@ first_name: RMDev
 middle_name:
 last_name: Research
 contact_note: >
-  Contact us to discuss collaboration opportunities or learn more about our research.
+  Contact us to discuss collaboration opportunities or learn more about the Joshua system.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Industry-changing research on LLM development methodologies. Systematic analysis of conversational AI development through comprehensive data collection and rigorous analysis.
+  Research laboratory documenting the Joshua conversational AI ecosystem - a self-improving multi-agent system achieving 180-400× productivity gains through Pure Multi-LLM Agile methodology.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Advancing LLM development through systematic research.
