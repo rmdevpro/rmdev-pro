@@ -6,7 +6,7 @@ subtitle: The Joshua Conversational AI Ecosystem
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: joshua-stamp.jpg
   image_circular: false
   more_info: >
     <p>Research Laboratory</p>
