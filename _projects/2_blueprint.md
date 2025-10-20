@@ -44,6 +44,7 @@ Clone or download the repository to get started with Blueprint for your personal
 
 ## Use Cases
 
+- No-code application creation
 - Educational projects and coursework
 - Research experiments in AI-assisted development
 - Personal digital asset creation
