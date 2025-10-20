@@ -108,6 +108,11 @@ ninja.data = [{
           description: "16 patents pending covering Joshua&#39;s core innovations",
           section: "Projects",handler: () => {
               window.location.href = "/rmdev-pro/projects/3_patents/";
+            },},{id: "projects-mit-datascience-capstone",
+          title: 'MIT Datascience Capstone',
+          description: "MIT Data Science capstone project",
+          section: "Projects",handler: () => {
+              window.location.href = "/rmdev-pro/projects/4_mit_capstone/";
             },},{
         id: 'social-email',
         title: 'email',
