@@ -2,7 +2,7 @@
 layout: page
 title: Joshua Project Conversation Database
 description: Comprehensive conversation storage and retrieval infrastructure for progressive CET training
-img: assets/img/joshua-stamp.jpg
+img: assets/img/conversation-database.jpg
 importance: 5
 category: main
 ---
