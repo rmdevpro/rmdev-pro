@@ -2,17 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: RMDev Research # the website title (if blank, full name will be used instead)
-first_name: RMDev
-middle_name:
-last_name: Research
+title: Joshua Conversational AI Ecosystem # the website title (if blank, full name will be used instead)
+first_name: Joshua
+middle_name: Conversational AI
+last_name: Ecosystem
 contact_note: >
-  Contact us to discuss collaboration opportunities or learn more about the Joshua system.
+  Contact us to join our conversation and learn more about the Joshua system.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Research laboratory documenting the Joshua conversational AI ecosystem - a self-improving multi-agent system achieving 180-400× productivity gains through Pure Multi-LLM Agile methodology.
+  We present Joshua, a conversational AI ecosystem designed to achieve unbounded capability through natural language interaction. Unlike traditional systems where capabilities are pre-programmed, Joshua acquires new abilities on demand through conversation, building its own tools via meta-programming and continuously improving through self-reflection.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Advancing LLM development through systematic research.
+  Joshua: Unbounded capability through natural language interaction.
 keywords: LLM, AI research, conversational AI, machine learning, development methodology, research # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: joshua-stamp.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: RMDev Research Blog # blog_name will be displayed in your blog page
-blog_description: Research insights on LLM development methodologies and conversational AI
+blog_name: Joshua AI Blog # blog_name will be displayed in your blog page
+blog_description: Insights on conversational AI development and self-improving systems
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

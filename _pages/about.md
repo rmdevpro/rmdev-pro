@@ -9,9 +9,9 @@ profile:
   image: joshua-stamp.jpg
   image_circular: false
   more_info: >
-    <p>Research Laboratory</p>
-    <p>Focus: Self-Improving AI Systems</p>
-    <p>Status: 12 Production MADs Operational</p>
+    <p>Joshua AI Ecosystem</p>
+    <p>Self-Improving Conversational AI</p>
+    <p>16 Patents Pending</p>
 
 selected_papers: false
 social: false
@@ -25,13 +25,11 @@ latest_posts:
   limit: 3
 ---
 
-RMDev Research documents the **Joshua system** - a groundbreaking conversational AI ecosystem designed to achieve unbounded capability through natural language interaction.
+We present Joshua, a conversational AI ecosystem designed to achieve unbounded capability through natural language interaction. Unlike traditional systems where capabilities are pre-programmed, Joshua acquires new abilities on demand through conversation, building its own tools via meta-programming and continuously improving through self-reflection.
 
-## The Core Innovation
+We have completed extensive work in theory, design and deployment. We have a thesis paper largely written, 16 patents pending and a downloadable autonomous digital asset creator, free for personal and educational use. Please have a look around and join our conversation.
 
-Unlike traditional AI systems with fixed capabilities, Joshua **acquires new abilities on demand through conversation**. The system builds its own tools via meta-programming and continuously improves through self-reflection.
-
-**Validated Performance:**
+## Validated Performance
 - **180-400× productivity gains** (empirically measured)
 - **84% cost reduction** through learned optimization
 - **82% first-submission approval** rates
