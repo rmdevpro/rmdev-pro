@@ -40,15 +40,15 @@ Joshua has filed a comprehensive portfolio of **16 provisional patent applicatio
 | **#5** | Conversation as State | 100% system observability |
 | **#6** | Metacognitive Validation | Parallel self-monitoring, no latency |
 | **#7** | Decision Tree Router | 10-100 microsecond routing |
-| **#9** | Network-Enforced Bus | Zero hidden dependencies |
-| **#15** | Autonomous Self-Modification | 96% self-improvement validated |
-| **#16** | Blueprint Consensus | 85-98% requirements fidelity |
-| **#21** | Multi-LLM Agile | 173 docs/hour, 83% approval |
-| **#22** | Verbatim Requirements | Zero translation loss |
-| **#25** | Voice-to-Code Pipeline | 45 min voice → working code |
-| **#26** | Parallel Architecture | 52 docs in 18 minutes |
-| **#27** | Meta-Programming | 100% LLM-generated systems |
-| **#28** | Self-Bootstrapping | System built itself |
+| **#8** | Network-Enforced Bus | Zero hidden dependencies |
+| **#9** | Autonomous Self-Modification | 96% self-improvement validated |
+| **#10** | Blueprint Consensus | 85-98% requirements fidelity |
+| **#11** | Multi-LLM Agile | 173 docs/hour, 83% approval |
+| **#12** | Verbatim Requirements | Zero translation loss |
+| **#13** | Voice-to-Code Pipeline | 45 min voice → working code |
+| **#14** | Parallel Architecture | 52 docs in 18 minutes |
+| **#15** | Meta-Programming | 100% LLM-generated systems |
+| **#16** | Self-Bootstrapping | System built itself |
 
 ---
 
