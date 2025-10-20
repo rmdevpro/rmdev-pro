@@ -113,6 +113,11 @@ ninja.data = [{
           description: "MIT Data Science capstone project",
           section: "Projects",handler: () => {
               window.location.href = "/rmdev-pro/projects/4_mit_capstone/";
+            },},{id: "projects-joshua-project-conversation-database",
+          title: 'Joshua Project Conversation Database',
+          description: "Comprehensive conversation storage and retrieval infrastructure for progressive CET training",
+          section: "Projects",handler: () => {
+              window.location.href = "/rmdev-pro/projects/5_conversation_database/";
             },},{
         id: 'social-email',
         title: 'email',
