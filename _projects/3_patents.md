@@ -7,8 +7,6 @@ importance: 3
 category: main
 ---
 
-# Joshua AI - Intellectual Property Portfolio
-
 ## 16 Patents Pending as of October 20th 2025
 
 | #     | Patent Title                                                                                           | Description                                                                |
