@@ -52,4 +52,4 @@ Clone or download the repository to get started with Blueprint for your personal
 
 ## Support
 
-For questions and support, join our conversation through the [blog](/blog/) or explore our [conversations](/conversations/) archive to see how Blueprint was developed.
+We do not provide support as this is a free application for individuals and non-profits to try out this kind of technology. We have tested it minimally so please, if you are the Git type, branch and fix. Even better, branch and add.
