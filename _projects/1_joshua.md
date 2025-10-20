@@ -11,31 +11,35 @@ category: main
 
 Joshua is a conversational AI ecosystem designed to achieve unbounded capability through natural language interaction. Unlike traditional systems where capabilities are pre-programmed, Joshua acquires new abilities on demand through conversation, building its own tools via meta-programming and continuously improving through self-reflection.
 
-## Key Innovation
+## Draft Thesis
 
-The system demonstrates that AI capabilities need not be fixed at deployment time. Through conversational interaction, Joshua can:
+### Table of Contents
+- **[Joshua Thesis Table of Contents](/rmdev-pro/assets/pdf/thesis/Joshua_Thesis_Table_of_Contents_v1.0.pdf)**
 
-- **Build new tools** on demand via meta-programming
-- **Learn from experience** through self-reflection
-- **Extend capabilities** without redeployment
-- **Collaborate** with multiple LLMs simultaneously
+### J Series - Core Papers
+- **[J01: Primary Overview](/rmdev-pro/assets/pdf/thesis/J01_Primary_Overview_v1.5_Draft.pdf)**
+- **[J02: System Evolution and Current State](/rmdev-pro/assets/pdf/thesis/J02_System_Evolution_and_Current_State_v1.0_Draft.pdf)**
+- **[J03: Cellular Monolith Architecture](/rmdev-pro/assets/pdf/thesis/J03_Cellular_Monolith_Architecture_v1.5_Draft.pdf)**
+- **[J04: Progressive Cognitive Pipeline](/rmdev-pro/assets/pdf/thesis/J04_Progressive_Cognitive_Pipeline_v2.1_PROSE.pdf)**
+- **[J05: eMADs](/rmdev-pro/assets/pdf/thesis/J05_eMADs_v1.1_Draft.pdf)**
+- **[J06: Pure Multi-LLM Agile Methodology](/rmdev-pro/assets/pdf/thesis/J06_Pure_Multi-LLM_Agile_Methodology_v1.0_Draft.pdf)**
 
-## System Architecture
+### C Series - Case Studies
+- **[C01: V0 Cellular Monolith Case Study Summary](/rmdev-pro/assets/pdf/thesis/C01_V0_Cellular_Monolith_Case_Study_Summary_v1.0_Draft.pdf)**
+- **[C02: V1 Synergos Case Study Summary](/rmdev-pro/assets/pdf/thesis/C02_V1_Synergos_Case_Study_Summary_v1.0_Draft.pdf)**
+- **[C03: V2 Blueprint Case Study Summary](/rmdev-pro/assets/pdf/thesis/C03_V2_Blueprint_Case_Study_Summary_v1.0_Draft.pdf)**
+- **[C04: Academic Paper Creation Case Study Summary](/rmdev-pro/assets/pdf/thesis/C04_Academic_Paper_Creation_Case_Study_Summary_v1.0_Draft.pdf)**
 
-Joshua implements novel architectural patterns including:
+### M Series - MAD Domain Papers
+- **[M01: Construction](/rmdev-pro/assets/pdf/thesis/M01_Construction_v1.3_Draft.pdf)**
+- **[M02: Data](/rmdev-pro/assets/pdf/thesis/M02_Data_v1.3_Draft.pdf)**
+- **[M03: Documentation](/rmdev-pro/assets/pdf/thesis/M03_Documentation_v1.3_Draft.pdf)**
+- **[M04: Information](/rmdev-pro/assets/pdf/thesis/M04_Information_v1.3_Draft.pdf)**
+- **[M05: Communication](/rmdev-pro/assets/pdf/thesis/M05_Communication_v1.3_Draft.pdf)**
+- **[M06: Security](/rmdev-pro/assets/pdf/thesis/M06_Security_v1.3_Draft.pdf)**
 
-- **MAD (Multipurpose Agentic Duo)** pattern separating reasoning from execution
-- **Progressive Cognitive Pipeline** for adaptive complexity handling
-- **Pure Multi-LLM Agile** development methodology
-
-## Current Status
-
-The system is operational with 12 production MADs (Multipurpose Agentic Duos) working collaboratively across six domains: Construction, Data, Documentation, Information, Communication, and Security.
-
-**Notable Achievement**: The entire Joshua system was built through conversation with LLMs, validating that the methodology it embodies actually works in practice.
-
-## Learn More
-
-- Explore our [conversations](/conversations/) archive to see the development process
-- Read our [publications](/publications/) for technical details
-- Check our [blog](/blog/) for updates and insights
+### Appendices - Full Case Studies
+- **[Appendix A: V0 Cellular Monolith Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_A_V0_Cellular_Monolith_Case_Study_Full.pdf)**
+- **[Appendix B: V1 Synergos Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_B_V1_Synergos_Case_Study_Full.pdf)**
+- **[Appendix C: V2 Blueprint Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_C_V2_Blueprint_Case_Study_Full.pdf)**
+- **[Appendix D: Academic Paper Creation Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_D_Academic_Paper_Creation_Case_Study_Full.pdf)**
