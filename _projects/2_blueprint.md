@@ -36,7 +36,11 @@ Blueprint is built on the Joshua ecosystem, inheriting its key architectural inn
 
 ## Download
 
-Visit our [publications](/publications/) page for download links and documentation.
+Blueprint is available on GitHub:
+
+**[GitHub Repository: rmdevpro/Blueprint](https://github.com/rmdevpro/Blueprint)**
+
+Clone or download the repository to get started with Blueprint for your personal or educational projects.
 
 ## Use Cases
 
