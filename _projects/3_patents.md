@@ -2,7 +2,7 @@
 layout: page
 title: Patents
 description: 16 patents pending covering Joshua's core innovations
-img: assets/img/joshua-stamp.jpg
+img: assets/img/patent-drawings.jpg
 importance: 3
 category: main
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Blueprint
 description: Autonomous digital asset creator - free for personal and educational use
-img: assets/img/joshua-stamp.jpg
+img: assets/img/blueprint-architecture.jpg
 importance: 2
 category: main
 ---
