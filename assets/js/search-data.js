@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/rmdev-pro/discussions/";
           },
-        },{id: "post-announcing-the-rmdev-research-project-website",
-        
-          title: "Announcing the RMDev Research Project Website",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/rmdev-pro/blog/2025/project-launch/";
-          
-        },
-      },{id: "books-the-godfather",
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
