@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/rmdev-pro/discussions/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-introducing-the-joshua-ecosystem-a-conversational-ai-that-builds-itself",
+        
+          title: "Introducing the Joshua Ecosystem: A Conversational AI That Builds Itself",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/rmdev-pro/blog/2025/introducing-joshua/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
