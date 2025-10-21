@@ -25,9 +25,9 @@ Joshua is a conversational AI ecosystem designed to achieve unbounded capability
 - **[J06: Pure Multi-LLM Agile Methodology](/rmdev-pro/assets/pdf/thesis/J06_Pure_Multi-LLM_Agile_Methodology_v1.0_Draft.pdf)**
 
 ### C Series - Case Studies
-- **[C01: V0 Cellular Monolith Case Study Summary](/rmdev-pro/assets/pdf/thesis/C01_V0_Cellular_Monolith_Case_Study_Summary_v1.0_Draft.pdf)**
-- **[C02: V1 Synergos Case Study Summary](/rmdev-pro/assets/pdf/thesis/C02_V1_Synergos_Case_Study_Summary_v1.0_Draft.pdf)**
-- **[C03: V2 Blueprint Case Study Summary](/rmdev-pro/assets/pdf/thesis/C03_V2_Blueprint_Case_Study_Summary_v1.0_Draft.pdf)**
+- **[C01: Cellular Monolith Case Study Summary](/rmdev-pro/assets/pdf/thesis/C01_V0_Cellular_Monolith_Case_Study_Summary_v1.0_Draft.pdf)**
+- **[C02: Synergos Case Study Summary](/rmdev-pro/assets/pdf/thesis/C02_V1_Synergos_Case_Study_Summary_v1.0_Draft.pdf)**
+- **[C03: Blueprint Case Study Summary](/rmdev-pro/assets/pdf/thesis/C03_V2_Blueprint_Case_Study_Summary_v1.0_Draft.pdf)**
 - **[C04: Academic Paper Creation Case Study Summary](/rmdev-pro/assets/pdf/thesis/C04_Academic_Paper_Creation_Case_Study_Summary_v1.0_Draft.pdf)**
 
 ### M Series - MAD Domain Papers
@@ -39,7 +39,7 @@ Joshua is a conversational AI ecosystem designed to achieve unbounded capability
 - **[M06: Security](/rmdev-pro/assets/pdf/thesis/M06_Security_v1.3_Draft.pdf)**
 
 ### Appendices - Full Case Studies
-- **[Appendix A: V0 Cellular Monolith Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_A_V0_Cellular_Monolith_Case_Study_Full.pdf)**
-- **[Appendix B: V1 Synergos Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_B_V1_Synergos_Case_Study_Full.pdf)**
-- **[Appendix C: V2 Blueprint Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_C_V2_Blueprint_Case_Study_Full.pdf)**
+- **[Appendix A: Cellular Monolith Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_A_V0_Cellular_Monolith_Case_Study_Full.pdf)**
+- **[Appendix B: Synergos Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_B_V1_Synergos_Case_Study_Full.pdf)**
+- **[Appendix C: Blueprint Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_C_V2_Blueprint_Case_Study_Full.pdf)**
 - **[Appendix D: Academic Paper Creation Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_D_Academic_Paper_Creation_Case_Study_Full.pdf)**
