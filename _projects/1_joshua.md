@@ -43,3 +43,40 @@ Joshua is a conversational AI ecosystem designed to achieve unbounded capability
 - **[Appendix B: Synergos Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_B_V1_Synergos_Case_Study_Full.pdf)**
 - **[Appendix C: Blueprint Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_C_V2_Blueprint_Case_Study_Full.pdf)**
 - **[Appendix D: Academic Paper Creation Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_D_Academic_Paper_Creation_Case_Study_Full.pdf)**
+
+## MAD Version Grid
+
+### Legend
+
+- ✅ = Deployed
+- 🔵 = Planned (not yet deployed)
+- ❌ = Canceled/Deprecated
+
+| MAD Name    | v0 | v1 | v2 | v3 | v4 | v5 | v6 | Description                                               |
+|-------------|----|----|----|----|----|----|----|-----------------------------------------------------------|
+| Berners-Lee | ✅ | ❌ |    |    |    |    |    | Web research and content retrieval (future eMAD function) |
+| Brin        |    | 🔵 |    |    |    |    |    | Google Docs Specialist                                    |
+| Cerf        |    | 🔵 |    |    |    |    |    | Endpoint Request Facilitator (API Gateway)                |
+| Clarke      |    | 🔵 |    |    |    |    |    | Encryption Services                                       |
+| Codd        |    | ✅ |    |    |    |    |    | Structured Database Administrator                         |
+| Deming      |    | 🔵 |    |    |    |    |    | System Monitoring and Observability                       |
+| Dewey (v0)  | ✅ | ❌ |    |    |    |    |    | Data Librarian (function change)                          |
+| Dewey (v1)  |    | ✅ |    |    |    |    |    | Semi Structured Database Administrator                    |
+| Fiedler     | ✅ | ✅ | 🔵 |    |    |    |    | LLM Orchestra                                             |
+| Gates       | ✅ | 🔵 |    |    |    |    |    | Microsoft Office Specialist                               |
+| Godot       | ✅ | ❌ |    |    |    |    |    | Logging and monitoring (replaced by Conversation bus)     |
+| Grace       | ✅ | ✅ |    |    |    |    |    | Conversation UI                                           |
+| Hopper      | ✅ | ✅ | 🔵 |    |    |    |    | Autonomous Builder                                        |
+| Horace      | ✅ | ✅ |    |    |    |    |    | Shared File System Manager                                |
+| Joshua      |    | 🔵 |    |    |    |    |    | Ecosystem Control and Leadership                          |
+| Lovelace    |    | 🔵 |    |    |    |    |    | Data Science & Analytics                                  |
+| Marco       | ✅ | ❌ |    |    |    |    |    | Web browser automation                                    |
+| McNamara    |    | 🔵 |    |    |    |    |    | Security Operations                                       |
+| Playfair    | ✅ | 🔵 |    |    |    |    |    | Chart Master                                              |
+| Polo        |    | 🔵 |    |    |    |    |    | Web Explorer                                              |
+| Rogers      |    | ✅ | 🔵 |    |    |    |    | Conversation Bus Controller                               |
+| Sam         |    | ✅ | 🔵 |    |    |    |    | WebSocket Client Interface to Conversational Bus          |
+| Sergey      | ✅ | ❌ |    |    |    |    |    | Google Suite Specialist (Name change to Brin)             |
+| Stallman    | ✅ | 🔵 |    |    |    |    |    | Open Source Docs Specialist                               |
+| Starret     |    | 🔵 |    |    |    |    |    | CI/CD                                                     |
+| Turing      | ✅ | ✅ | 🔵 |    |    |    |    | Secrets Management                                        |
