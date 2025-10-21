@@ -8,10 +8,7 @@ profile:
   align: right
   image: joshua-stamp.jpg
   image_circular: false
-  more_info: >
-    <p>Joshua AI Ecosystem</p>
-    <p>Self-Improving Conversational AI</p>
-    <p>16 Patents Pending</p>
+  more_info:
 
 selected_papers: false
 social: false
