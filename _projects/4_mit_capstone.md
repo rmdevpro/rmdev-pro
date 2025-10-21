@@ -2,7 +2,7 @@
 layout: page
 title: MIT Data Science Capstone
 description: MIT Data Science capstone project
-img: assets/img/joshua-stamp.jpg
+img: assets/img/mit-logo.png
 importance: 4
 category: main
 ---
