@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/rmdev-pro/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/rmdev-pro/repositories/";
-          },
         },{id: "nav-conversations",
           title: "conversations",
           description: "Complete conversational development record - thousands of conversations showing how Joshua was built through LLM collaboration.",
@@ -37,21 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/rmdev-pro/conversations/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/rmdev-pro/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/rmdev-pro/blog/";
-              },
-            },{id: "post-announcing-the-rmdev-research-project-website",
+        },{id: "post-announcing-the-rmdev-research-project-website",
         
           title: "Announcing the RMDev Research Project Website",
         
