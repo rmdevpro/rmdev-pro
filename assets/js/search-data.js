@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/rmdev-pro/projects/";
           },
-        },{id: "nav-conversations",
-          title: "conversations",
-          description: "Complete conversational development record - thousands of conversations showing how Joshua was built through LLM collaboration.",
+        },{id: "nav-discussion-board",
+          title: "Discussion Board",
+          description: "Join the conversation about Joshua and conversational AI development",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/rmdev-pro/conversations/";
+            window.location.href = "/rmdev-pro/discussions/";
           },
         },{id: "post-announcing-the-rmdev-research-project-website",
         
@@ -46,21 +46,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/rmdev-pro/books/the_godfather/";
-            },},{id: "conversations-mad-architecture-design-session",
-          title: 'MAD Architecture Design Session',
-          description: "",
-          section: "Conversations",handler: () => {
-              window.location.href = "/rmdev-pro/conversations/2025-09-28-mad-architecture-design-session/";
-            },},{id: "conversations-fiedler-mcp-server-configuration-bug-hunt",
-          title: 'Fiedler MCP Server Configuration Bug Hunt',
-          description: "",
-          section: "Conversations",handler: () => {
-              window.location.href = "/rmdev-pro/conversations/2025-10-12-fiedler-bug-hunt/";
-            },},{id: "conversations-v0-architecture-creation-sprint",
-          title: 'V0 Architecture Creation Sprint',
-          description: "",
-          section: "Conversations",handler: () => {
-              window.location.href = "/rmdev-pro/conversations/2025-10-15-v0-architecture-creation-sprint/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
