@@ -39,10 +39,10 @@ Joshua is a conversational AI ecosystem designed to achieve unbounded capability
 - **[M06: Security](/rmdev-pro/assets/pdf/thesis/M06_Security_v1.3_Draft.pdf)**
 
 ### Appendices - Full Case Studies
-- **[Appendix A: Cellular Monolith Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_A_V0_Cellular_Monolith_Case_Study_Full.pdf)**
-- **[Appendix B: Synergos Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_B_V1_Synergos_Case_Study_Full.pdf)**
-- **[Appendix C: Blueprint Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_C_V2_Blueprint_Case_Study_Full.pdf)**
-- **[Appendix D: Academic Paper Creation Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_D_Academic_Paper_Creation_Case_Study_Full.pdf)**
+- **[Appendix A: Cellular Monolith Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_A_V0_Cellular_Monolith_Case_Study_Full.pdf)** | [Download Artifacts (ZIP)](/rmdev-pro/assets/artifacts/Appendix_A_Cellular_Monolith_Artifacts.zip)
+- **[Appendix B: Synergos Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_B_V1_Synergos_Case_Study_Full.pdf)** | [Download Artifacts (ZIP)](/rmdev-pro/assets/artifacts/Appendix_B_Synergos_Artifacts.zip)
+- **[Appendix C: Blueprint Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_C_V2_Blueprint_Case_Study_Full.pdf)** | [Download Artifacts (ZIP)](/rmdev-pro/assets/artifacts/Appendix_C_Blueprint_Artifacts.zip)
+- **[Appendix D: Academic Paper Creation Case Study (Full)](/rmdev-pro/assets/pdf/thesis/Appendix_D_Academic_Paper_Creation_Case_Study_Full.pdf)** | [Download Artifacts (ZIP)](/rmdev-pro/assets/artifacts/Appendix_D_Academic_Papers_Artifacts.zip)
 
 ## MAD Version Grid
 
